@@ -1,0 +1,14 @@
+{
+  "1001": {
+    "artikel": "Tastatur",
+    "status": "In Bearbeitung"
+  },
+  "1002": {
+    "artikel": "Monitor",
+    "status": "Versendet"
+  },
+  "1003": {
+    "artikel": "Maus",
+    "status": "Zugestellt"
+  }
+}
